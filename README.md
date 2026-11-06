@@ -2,7 +2,7 @@
 
 ## Acesso
 
-**https://tiagocarvalhob.github.io/Trabalho-Faculdade/**
+**https://tiagocarvalhob.github.io/1-Faculdade/**
 
 Entenda os Conceitos e Aplicações da IA
 Projeto desenvolvido por Tiago Carvalho no curso de Análise e Desenvolvimento de Sistemas, focando no entendimento e divulgação dos principais conceitos da Inteligência Artificial.
